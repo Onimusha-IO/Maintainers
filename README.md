@@ -1,9 +1,10 @@
-# Maintainers
+## Maintainers
 A fullstack practice project.
 
-## Technologies
+### Technologies
 Project created with:
-Front End
+
+####Front End
   * Axios: 0.27.2,
   * Classnames: 2.3.1,
   * React": 18.0.0,
@@ -14,7 +15,7 @@ Front End
   * Typescript: 4.6.3,
   * Vite: 2.9.9
   
-Back End
+####Back End
     * Bcrypt: 5.0.1,
     * Cors: 2.8.5,
     * Dotenv: 16.0.1,
@@ -23,7 +24,7 @@ Back End
     * Pg: 8.7.3
     * Node: 18.0.0
     
-## Setup
+### Setup
 
 To run this project: install PostgreSql locally and use in PgAdmin the following commands: 
 
@@ -39,7 +40,7 @@ CREATE DATABASE "yourName"
     CONNECTION LIMIT = -1;
 ```
 
-Tables: cream, dough, extra, filling, flavor, shape:
+Tables: cream, dough, extra, filling, flavor, shape
 ```
 CREATE TABLE IF NOT EXISTS public.yourTableName
 (
@@ -50,7 +51,7 @@ CREATE TABLE IF NOT EXISTS public.yourTableName
 )
 ```
 
-Table: size:
+Table: size
 ```
 CREATE TABLE IF NOT EXISTS public.size
 (
@@ -62,7 +63,7 @@ CREATE TABLE IF NOT EXISTS public.size
 )
 ```
 
-Table: user:
+Table: user
 ```
 CREATE TABLE IF NOT EXISTS public."user"
 (
