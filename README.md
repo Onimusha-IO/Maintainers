@@ -4,7 +4,7 @@ A fullstack practice project.
 ### Technologies
 Project created with:
 
-####Front End
+#### Front End
   * Axios: 0.27.2,
   * Classnames: 2.3.1,
   * React": 18.0.0,
@@ -15,7 +15,7 @@ Project created with:
   * Typescript: 4.6.3,
   * Vite: 2.9.9
   
-####Back End
+#### Back End
     * Bcrypt: 5.0.1,
     * Cors: 2.8.5,
     * Dotenv: 16.0.1,
