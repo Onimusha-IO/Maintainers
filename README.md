@@ -5,15 +5,15 @@ A fullstack practice project.
 Project created with:
 
 #### Front End
-  * Axios: 0.27.2,
-  * Classnames: 2.3.1,
-  * React": 18.0.0,
-  * React-dom: 18.0.0,
-  * React-redux: 8.0.2,
-  * React-router-dom: 6.3.0,
-  * Sass: 1.53.0
-  * Typescript: 4.6.3,
-  * Vite: 2.9.9
+    * Axios: 0.27.2,
+    * Classnames: 2.3.1,
+    * React": 18.0.0,
+    * React-dom: 18.0.0,
+    * React-redux: 8.0.2,
+    * React-router-dom: 6.3.0,
+    * Sass: 1.53.0
+    * Typescript: 4.6.3,
+    * Vite: 2.9.9
   
 #### Back End
     * Bcrypt: 5.0.1,
